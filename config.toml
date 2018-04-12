@@ -1,4 +1,4 @@
-baseURL = "https://www.plaidwood.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Plaid Wood"
 theme = "hugo-smorg"
